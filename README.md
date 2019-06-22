@@ -71,6 +71,7 @@ Sudoku is Solved<br/>
 
 To build this Sudoku Solver, Our subject Faculty, Asst. Prof. Soumya Mukherjee & Ankit Agrawal motivated me to complete.
 
+---
 ### Contributing:
 Even thou I believed that this Program can solve world toughest 9x9 Sudoku and many more sudoku which I tried.
 >But, after 4 years I got to know that it fails to solve Project Euler-96 Original Sudoku [Link](https://projecteuler.net/problem=96)
@@ -78,6 +79,7 @@ Even thou I believed that this Program can solve world toughest 9x9 Sudoku and m
 
 **So, Hey problem Solver, If you would like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.**
 
+---
 ### Links:
 
 - [Sudoku Solving Techniques](https://www.kristanix.com/sudokuepic/sudoku-solving-techniques.php)
