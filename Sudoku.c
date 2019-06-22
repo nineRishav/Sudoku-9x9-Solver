@@ -10,16 +10,16 @@ int checkgrid(int,int,int) ;
 
 int sudoku[9][9] ;              //global declaration //
 int c,r,R,C,i,j,temp;               // global //
+
 int main()
 {
-    printf("\t\t\a  WELCOME TO SUDOKU WORLD !\n");
     printf("\n Enter the Elements of Sudoku Row Wise and INPUT 0 for BLANK Spaces\n");
     for(j=0; j<9 ; ++j)
         for(i=0 ; i<9 ;++i)
             scanf("%d",&sudoku[j][i]);               //INPUT of element //
 
     master(0,0);            //sudoku starts from cell 0,0 ...//
-return 9;
+    return 9;
 }
 
 void master(int r, int c)
@@ -44,7 +44,7 @@ void master(int r, int c)
  }
 void display()
 {
-    printf("\n\t\n\a Sudoku is Solved my \"LORD\"\n\n");              // DISPLAY Result //
+    printf("\n\t\n\a Sudoku is Solved\n\n");              // DISPLAY Result //
         for(i=0; i<9 ; ++i)
         {
             for(j=0 ; j<9 ;++j)
