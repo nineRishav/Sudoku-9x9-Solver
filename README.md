@@ -49,7 +49,7 @@ Java  | 9 lines each contaning 9 characters 0-9 with 0 at blank spaces
 ---
 ### Output:
 
-Sudoku is Solved
+Sudoku is Solved<br/>
 8 1 2 7 5 3 6 4 9<br/>
 9 4 3 6 8 2 1 7 5<br/>
 6 7 5 4 9 1 2 8 3<br/>
