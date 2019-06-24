@@ -69,7 +69,7 @@ Sudoku is Solved<br/>
 ---
 ### Credits:
 
-To build this Sudoku Solver, Our subject Faculty, Asst. Prof. Soumya Mukherjee & Ankit Agrawal motivated me to complete.
+To build this Sudoku Solver, Asst. Prof. Soumya Mukherjee & Ankit Agrawal motivated me to complete.
 
 ---
 ### Contributing:
